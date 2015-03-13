@@ -1,0 +1,9 @@
+body{font-family: 'Lato', sans-serif; color: black; font-weight: 300;background-color: black}
+.text-colored{color: #bcbbbb}
+.text-thin{font-weight: 100;}
+.text-grow{font-size: 60px}
+.row{background-color: white}
+.backgray{background-color: gray; padding-top: 5px;}
+h2{display: inline;}
+p{display: inline;}
+.backgreen{background-color: green}
